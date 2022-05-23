@@ -3,6 +3,8 @@ página de captura em HTML e CSS
 
 Esse projeto é focado em trabalhar as propriedades do HTML e CSS para replicar uma página de captura. Não trabalhei com responsividade nesse projeto ainda.
 
-![image](https://user-images.githubusercontent.com/101480382/169726035-45531a66-cbb5-47e3-afd4-9c1738293644.png)
-![image](https://user-images.githubusercontent.com/101480382/169726076-040f675b-8bcd-43e8-a846-90eb7690aead.png)
+![image](https://user-images.githubusercontent.com/101480382/169726191-18e54c9f-8df7-480f-a86e-2bf1b5624d77.png)
+
+![image](https://user-images.githubusercontent.com/101480382/169726210-ffba3dd4-abd0-46e1-ac7c-f6f6b77fd9e5.png)
+
 
