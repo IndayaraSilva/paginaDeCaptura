@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+.container{
+    margin-top: 0px;
+    width: 60vw;
+    height: 125vh;
+    margin: auto;
+    font-family: Arial;
+    background-color: white;
+}
+
+h1{
+    margin: 0;
+    font-size: 23px;
+    text-align: center;
+    color:white;
+    background: rgb(103, 193, 223);
+    padding: 10px;
+}
+
+.main{
+    height: 60%;
+    background-image: url(images/people.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    height: 35%;
+    background-color: rgb(41, 41, 41);
+    color: white;
+    text-align: left
+}
+
+#footerh3{
+    margin: 0;
+    padding-top: 11%;
+    padding-left: 45%;
+    display: flex;
+}
+
+.footerp{
+    font-size: 12px;
+    padding-left: 45%;
+    display: flex;
+}
+
+img{
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+
+.section{
+    background-color: #FFFFFFBB;
+    text-align: left;
+    position: absolute;
+    width: 21%;
+    margin-left: 39%;
+    margin-top: 1.5%;
+    margin-right: 10px;
+    padding-bottom: 15px;
+    padding: 3px;
+}
+
+#sectionh3{
+    margin-left: 14px;
+    margin-right: 9px;
+}
+
+#sectionp{
+    margin-left: 14px;
+}
+
+.button{
+    border: none;
+    background: white;
+    padding: 8px ;
+    margin-left: 14px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    width: 230px;
+}
+
+.select{
+    border: none;
+    margin-left: 14px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: block;
+    width: 250px;
+    padding: 8px;
+}
+
+.inscrevase{
+    border: none;
+    margin-left: 14px;
+    margin-top: 4px;
+    margin-bottom: 6px;
+    width: 250px;
+    padding: 10px;
+    background-color: rgb(103, 193, 223);
+    color: white;
+    font-weight: bold;
+}
+
+.inscrevase:hover{
+    background-color: rgb(25, 172, 221);
+    cursor: pointer;
+}
